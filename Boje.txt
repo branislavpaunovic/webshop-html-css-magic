@@ -1,0 +1,6 @@
+Teal	 	#0D5E71
+Carrot	#FF6F00 
+LightGrey	#f9f9f9
+DarkGrey	#999999
+Border Item	#ececec
+Grey Text		#b3b3b3
